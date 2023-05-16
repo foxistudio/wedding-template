@@ -1,0 +1,101 @@
+#sep-bottom-4 .bg-wrap {
+}     #sep-bottom-4--0 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #header-timer--0 .bg-wrap {
+    background-color: #000;
+}
+
+#header-timer--0 .bg {
+    background-image: url('../images/2019-06-10.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.85;
+}#sep-bottom-4--1 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     
+#text-1col .bg {
+	background-size: contain;
+    background-image: url('../images/mail.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    opacity: 0.77;
+}
+#text-1col--0 .bg {
+	background-size: 550px 550px;
+    background-image: url('../images/mail.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    opacity: 0.77;
+}
+#desc-items-list .bg-wrap {}
+#sep-top-4 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}#sep-bottom-7--3 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-7--3 .bg {
+    background-image: url('../images/bg-fog-top.png');
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-size: auto 100px;
+}
+#sep-bottom-7--0 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-7--0 .bg {
+    background-image: url('../images/bg-fog-top.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 100px;
+}
+#desc-accordion .bg-wrap{}
+#desc-accordion .bg {	background-repeat: Repeat-x;
+	opacity: 0.33;
+	background-position: right center;
+	background-image: url('../images/2515168.jpg');
+}#sep-bottom-7 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-7 .bg {
+    background-image: url('../images/bg-fog-bottom.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 100px;
+}
+#sep-bottom-7--2 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-7--2 .bg {
+    background-image: url('../images/bg-fog-bottom.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 100px;
+}
+#sep-top-7 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-top-7 .bg {
+    background-image: url('../images/bg-fog-top.png');
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-size: auto 100px;
+}
+#sep-bottom-7--1 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-7--1 .bg {
+    background-image: url('../images/bg-fog-bottom.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 100px;
+}
+#sep-bottom-4--2 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     
